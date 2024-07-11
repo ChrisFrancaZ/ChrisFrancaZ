@@ -1,11 +1,15 @@
 
 
-### Olá! Eu sou o Christian França ✌️
+# Olá! Eu sou o Christian França ✌️
+Sou um programador Front end, focado em JavaScript, mais aprendendo outras linguagens como: PHP e C#. Também sou um modelador 3D, utilizando Blender3D como base.
 
+## Contatos: 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-frança/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/chris_m_franca/)
 
 ![Christian GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisFrancaZ&show_icons=true&theme=radical)
+
+
 
 
 ## Tecnologias que uso no meu dia a dia 👨‍💻🖥️
@@ -20,5 +24,7 @@
 
 </div><br/>
 
-Apaixonado por tecnologia, jogos e açai.
+### Um pouco sobre mim
+Sou apaixonado por estudar, todo dia aprendendo algo novo, gosto muito de jogar, sou viciado em açai 😊 e também em Pokémon. 🎮🕹️👾
+
 
